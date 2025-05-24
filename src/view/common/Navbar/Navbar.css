@@ -27,5 +27,11 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 5px;
+    font-size: x-large;
+}
+.sign{
+    background-color: teal;
+    width: 100px;
+    height: 30px;
+
 }
